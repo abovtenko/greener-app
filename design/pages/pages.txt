@@ -1,0 +1,12 @@
+
+Landing
+
+	The home page for users that are not logged in.
+
+Login
+
+	The page the allows users to log in.
+
+Home 
+	
+	The page users reach first once they are logged in.
